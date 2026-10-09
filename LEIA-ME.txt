@@ -1,0 +1,11 @@
+CELULAR SEM MEDO — SITE DE VENDAS
+
+CHECKOUT CONFIGURADO: https://pay.kiwify.com.br/hAPmUQT
+
+1) Abra index.html no navegador e clique nos botões de compra para testar.
+2) Publique index.html, style.css, script.js e a pasta assets/ no GitHub Pages.
+3) Copie a URL pública do GitHub Pages e informe-a no campo Página de Vendas da Kiwify.
+4) Configure a entrega protegida do PDF na Kiwify. NÃO coloque o PDF pago no GitHub.
+5) Confirme no painel da Kiwify se o link corresponde ao produto e ao preço R$ 19,90.
+6) Revise o conteúdo do PDF e faça testes de checkout e entrega antes de divulgar.
+7) Respeite os requisitos de idade e titularidade da plataforma; peça apoio de responsável legal.
